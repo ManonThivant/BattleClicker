@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TownClicker</string>
+    <string name="title_activity_page_de_garde">PageDeGarde</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="total_money_label">Argent total</string>
+    <string name="upgrade_button_label">Améliorer</string>
+    <string name="label_upgrade_price">Amélioration</string>
+    <string name="upgrade_price">20</string>
+    <string name="toast_message">Toast son père</string>
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
